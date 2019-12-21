@@ -1,0 +1,13 @@
+/Users/tfan/Projects/Quotes/Quotes/obj/Debug/netstandard2.0/Quotes.csprojAssemblyReference.cache
+/Users/tfan/Projects/Quotes/Quotes/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/tfan/Projects/Quotes/Quotes/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/tfan/Projects/Quotes/Quotes/obj/Debug/netstandard2.0/Quotes.AssemblyInfoInputs.cache
+/Users/tfan/Projects/Quotes/Quotes/obj/Debug/netstandard2.0/Quotes.AssemblyInfo.cs
+/Users/tfan/Projects/Quotes/Quotes/bin/Debug/netstandard2.0/Quotes.deps.json
+/Users/tfan/Projects/Quotes/Quotes/bin/Debug/netstandard2.0/Quotes.dll
+/Users/tfan/Projects/Quotes/Quotes/bin/Debug/netstandard2.0/ref/Quotes.dll
+/Users/tfan/Projects/Quotes/Quotes/bin/Debug/netstandard2.0/Quotes.pdb
+/Users/tfan/Projects/Quotes/Quotes/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/tfan/Projects/Quotes/Quotes/obj/Debug/netstandard2.0/Quotes.dll
+/Users/tfan/Projects/Quotes/Quotes/obj/Debug/netstandard2.0/ref/Quotes.dll
+/Users/tfan/Projects/Quotes/Quotes/obj/Debug/netstandard2.0/Quotes.pdb
